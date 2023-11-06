@@ -1,8 +1,16 @@
-This is the *Simple Chat Bot with Java* project I made myself.
+# Simple Chat Bot with Java
 
+hyperskill java project
 
-<p>Create a simple console chat bot from scratch that will communicate with you and perform basic arithmetic operations.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/113?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/113</a>
+## 개요
 
-Here's the link to the project: https://hyperskill.org/projects/113
+정해진 질문을 할 수 있는 간단한 챗봇 애플리케이션
 
-Check out my profile: https://hyperskill.org/profile/563302313
+## 환경
+
+- Java 17
+
+## 배운 것
+
+- 정수형 산술 연산, 증감 연산
+- `if` 문을 통한 특정 코드의 조건부 실행 처리 
