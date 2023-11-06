@@ -16,7 +16,5 @@ build
 !/Simple Chat Bot with Java/task/src
 
 # Project exclude paths
-/Topics/Conditional statement/Check a number is positive/out/
-/Topics/Conditional statement/Check a number is positive/out/production/classes/
-/Topics/Conditional statement/Leap year/out/
-/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/**/out/
+/Topics/**/out/production/classes/
