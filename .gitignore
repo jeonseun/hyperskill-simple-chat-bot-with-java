@@ -16,5 +16,4 @@ build
 !/Simple Chat Bot with Java/task/src
 
 # Project exclude paths
-/Topics/**/out/
-/Topics/**/out/production/classes/
+Topics/
