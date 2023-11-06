@@ -6,9 +6,12 @@ hyperskill java project
 
 정해진 질문을 할 수 있는 간단한 챗봇 애플리케이션
 
+![gif](./simple%20chat%20bot%20with%20java.gif)
+
 ## 환경
 
 - Java 17
+- IntelliJ IDEA 2023.2.3 (Ultimate Edition)
 
 ## 배운 것
 
